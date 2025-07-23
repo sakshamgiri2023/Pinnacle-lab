@@ -2,9 +2,9 @@ import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { ThemeProvider } from "./components/ThemeProvider"
 import { Layout } from "./components/Layout"
 import WeatherDashboard from "./pages/WeatherDashboard"
-import CityPage from "./pages/CityPage"
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query"
 import { ReactQueryDevtools } from '@tanstack/react-query-devtools'
+import CityPage from "./pages/CityPage"
 
 function App() {
 
