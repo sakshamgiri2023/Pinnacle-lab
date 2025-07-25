@@ -128,7 +128,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2 text-slate-400">
               <span>© 2025 Elite Events. Made with</span>
               <Heart className="h-4 w-4 text-red-500 fill-current" />
-              <span>Sakham gei</span>
+              <span>Sakham Giri</span>
             </div>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-slate-400 hover:text-white transition-colors">

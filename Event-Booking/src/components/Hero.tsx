@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ArrowRight, Star, Users, Calendar } from 'lucide-react';
 
 const Hero = () => {
@@ -51,7 +51,7 @@ const Hero = () => {
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-white/90 mb-12 max-w-3xl mx-auto leading-relaxed">
-            From intimate gatherings to grand celebrations, we transform your vision into 
+            From intimate gatherings to grand celebrations, we transform your vision into
             extraordinary experiences that leave lasting memories.
           </p>
 

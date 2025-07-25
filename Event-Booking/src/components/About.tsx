@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Award, Users, Target, Heart } from 'lucide-react';
 
 const About = () => {
@@ -38,17 +38,17 @@ const About = () => {
                 <span className="text-amber-500 block">Exceptional Events</span>
               </h2>
             </div>
-            
+
             <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-              With over 8 years of experience in the event industry, Elite Events has established 
-              itself as a premier event planning company. We specialize in transforming ordinary 
+              With over 8 years of experience in the event industry, Elite Events has established
+              itself as a premier event planning company. We specialize in transforming ordinary
               occasions into extraordinary experiences that captivate and inspire.
             </p>
 
             <p className="text-lg text-slate-600 mb-8 leading-relaxed">
-              Our team of creative professionals brings together expertise in design, logistics, 
-              and hospitality to deliver seamless events that reflect your unique style and vision. 
-              From intimate celebrations to large-scale corporate gatherings, we handle every detail 
+              Our team of creative professionals brings together expertise in design, logistics,
+              and hospitality to deliver seamless events that reflect your unique style and vision.
+              From intimate celebrations to large-scale corporate gatherings, we handle every detail
               with precision and care.
             </p>
 
